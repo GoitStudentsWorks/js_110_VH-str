@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-JS-TeamWork-FullStalkers/",
+    "build": "vite build --base=/js_110_VH-str/",
     "preview": "vite preview"
   },
   "devDependencies": {
